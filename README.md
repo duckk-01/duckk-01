@@ -1,1 +1,1 @@
-[![Discord Presence](https://lanyard-profile-readme.vercel.app/api/411464789609676801?theme=light&bg=809ecf&animated=false&hideDiscrim=true&borderRadius=30px&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/411464789609676801)
+<a href="https://discord.com/users/411464789609676801/"><img src="https://lanyard.cnrad.dev/api/411464789609676801?bg=0d1117" height="180" width="auto"></a>
