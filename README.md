@@ -23,48 +23,11 @@ I build web apps, dashboards, hosting systems, mobile apps and FiveM tools.
 ```js
 const max = {
   location: "Germany 🇩🇪",
-
-  focus: [
-    "Web Development",
-    "App Development",
-    "Game Server Hosting",
-    "Dashboards",
-    "Automation",
-    "FiveM Tools",
-    "Infrastructure"
-  ],
-
-  mainStack: [
-    "Laravel",
-    "PHP",
-    "Livewire",
-    "Capacitor",
-    "JavaScript",
-    "Node.js",
-    "Lua",
-    "HTML",
-    "CSS",
-    "SCSS",
-    "MySQL",
-    "SQLite",
-    "Docker",
-    "Linux",
-    "Proxmox",
-    "GitLab CI/CD"
-  ],
-
-  currentlyLearning: [
-    "TypeScript"
-  ],
-
-  projects: [
-    "WZH-Server.de",
-    "WZ-H.de",
-    "Zentrum.cc",
-    "Kopfkompass",
-    "Maß & Menge"
-  ],
-
+  focus: ["Web Apps", "Hosting Systems", "Mobile Apps", "FiveM Tools"],
+  stack: ["Laravel", "PHP", "Livewire", "Capacitor", "JavaScript", "Node.js", "Lua"],
+  infrastructure: ["Docker", "Linux", "Proxmox", "GitLab CI/CD"],
+  projects: ["WZH-Server.de", "WZ-H.de", "Zentrum.cc"],
+  learning: ["TypeScript"],
   mindset: "Build it. Break it. Fix it better."
 };
 ```
