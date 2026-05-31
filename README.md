@@ -201,7 +201,7 @@ infrastructure:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DEIN_GITHUB_USERNAME&theme=discord&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
+[![trophy](https://github-profile-trophy.vercel.app/?username=duckk-01)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
